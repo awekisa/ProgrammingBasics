@@ -1,0 +1,6 @@
+D:\Coding\Software University\Homeworks\Exams\26 April 2015 Evening\05. Game of Life\bin\Debug\_05.Game_of_Life.exe.config
+D:\Coding\Software University\Homeworks\Exams\26 April 2015 Evening\05. Game of Life\bin\Debug\_05.Game_of_Life.exe
+D:\Coding\Software University\Homeworks\Exams\26 April 2015 Evening\05. Game of Life\bin\Debug\_05.Game_of_Life.pdb
+D:\Coding\Software University\Homeworks\Exams\26 April 2015 Evening\05. Game of Life\obj\Debug\_05.Game_of_Life.exe
+D:\Coding\Software University\Homeworks\Exams\26 April 2015 Evening\05. Game of Life\obj\Debug\_05.Game_of_Life.pdb
+D:\Coding\Software University\Homeworks\Exams\26 April 2015 Evening\05. Game of Life\obj\Debug\05. Game of Life.csprojResolveAssemblyReference.cache

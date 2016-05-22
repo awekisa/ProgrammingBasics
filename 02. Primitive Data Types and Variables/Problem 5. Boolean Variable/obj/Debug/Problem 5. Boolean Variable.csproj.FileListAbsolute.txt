@@ -1,0 +1,8 @@
+D:\Coding\Software University\Homeworks\Primitive Data Types and Variables\Problem 5. Boolean Variable\bin\Debug\Problem_5.Boolean_Variable.exe.config
+D:\Coding\Software University\Homeworks\Primitive Data Types and Variables\Problem 5. Boolean Variable\bin\Debug\Problem_5.Boolean_Variable.exe
+D:\Coding\Software University\Homeworks\Primitive Data Types and Variables\Problem 5. Boolean Variable\bin\Debug\Problem_5.Boolean_Variable.pdb
+D:\Coding\Software University\Homeworks\Primitive Data Types and Variables\Problem 5. Boolean Variable\obj\Debug\Problem_5.Boolean_Variable.exe
+D:\Coding\Software University\Homeworks\Primitive Data Types and Variables\Problem 5. Boolean Variable\obj\Debug\Problem_5.Boolean_Variable.pdb
+D:\Coding\Software University\Homeworks\02. Primitive Data Types and Variables\Problem 5. Boolean Variable\bin\Debug\Problem_5.Boolean_Variable.exe.config
+D:\Coding\Software University\Homeworks\02. Primitive Data Types and Variables\Problem 5. Boolean Variable\obj\Debug\Problem_5.Boolean_Variable.exe
+D:\Coding\Software University\Homeworks\02. Primitive Data Types and Variables\Problem 5. Boolean Variable\obj\Debug\Problem_5.Boolean_Variable.pdb

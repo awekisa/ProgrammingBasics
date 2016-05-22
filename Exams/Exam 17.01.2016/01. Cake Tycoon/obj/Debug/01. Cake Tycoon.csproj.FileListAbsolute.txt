@@ -1,0 +1,6 @@
+D:\Coding\Software University\Homeworks\Exams\Exam 17.01.2016\01. Cake Tycoon\bin\Debug\_01.Cake_Tycoon.exe.config
+D:\Coding\Software University\Homeworks\Exams\Exam 17.01.2016\01. Cake Tycoon\bin\Debug\_01.Cake_Tycoon.exe
+D:\Coding\Software University\Homeworks\Exams\Exam 17.01.2016\01. Cake Tycoon\bin\Debug\_01.Cake_Tycoon.pdb
+D:\Coding\Software University\Homeworks\Exams\Exam 17.01.2016\01. Cake Tycoon\obj\Debug\01. Cake Tycoon.csprojResolveAssemblyReference.cache
+D:\Coding\Software University\Homeworks\Exams\Exam 17.01.2016\01. Cake Tycoon\obj\Debug\_01.Cake_Tycoon.exe
+D:\Coding\Software University\Homeworks\Exams\Exam 17.01.2016\01. Cake Tycoon\obj\Debug\_01.Cake_Tycoon.pdb

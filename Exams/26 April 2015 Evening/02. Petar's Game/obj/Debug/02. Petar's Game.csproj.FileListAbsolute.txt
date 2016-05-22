@@ -1,0 +1,5 @@
+D:\Coding\Software University\Homeworks\Exams\26 April 2015 Evening\02. Petar's Game\bin\Debug\_02.Petar_s_Game.exe.config
+D:\Coding\Software University\Homeworks\Exams\26 April 2015 Evening\02. Petar's Game\bin\Debug\_02.Petar_s_Game.exe
+D:\Coding\Software University\Homeworks\Exams\26 April 2015 Evening\02. Petar's Game\bin\Debug\_02.Petar_s_Game.pdb
+D:\Coding\Software University\Homeworks\Exams\26 April 2015 Evening\02. Petar's Game\obj\Debug\_02.Petar_s_Game.exe
+D:\Coding\Software University\Homeworks\Exams\26 April 2015 Evening\02. Petar's Game\obj\Debug\_02.Petar_s_Game.pdb

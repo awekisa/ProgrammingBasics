@@ -1,0 +1,5 @@
+D:\Coding\Software University\Homeworks\Exams\12 July 2015\05.1 Other Wigle Wigle\bin\Debug\05.1 Other Wigle Wigle.exe.config
+D:\Coding\Software University\Homeworks\Exams\12 July 2015\05.1 Other Wigle Wigle\bin\Debug\05.1 Other Wigle Wigle.exe
+D:\Coding\Software University\Homeworks\Exams\12 July 2015\05.1 Other Wigle Wigle\bin\Debug\05.1 Other Wigle Wigle.pdb
+D:\Coding\Software University\Homeworks\Exams\12 July 2015\05.1 Other Wigle Wigle\obj\Debug\05.1 Other Wigle Wigle.exe
+D:\Coding\Software University\Homeworks\Exams\12 July 2015\05.1 Other Wigle Wigle\obj\Debug\05.1 Other Wigle Wigle.pdb

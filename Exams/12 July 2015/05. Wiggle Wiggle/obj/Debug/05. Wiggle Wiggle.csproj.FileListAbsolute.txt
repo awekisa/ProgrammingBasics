@@ -1,0 +1,6 @@
+D:\Coding\Software University\Homeworks\Exams\12 July 2015\05. Wiggle Wiggle\bin\Debug\_05.Wiggle_Wiggle.exe.config
+D:\Coding\Software University\Homeworks\Exams\12 July 2015\05. Wiggle Wiggle\bin\Debug\_05.Wiggle_Wiggle.exe
+D:\Coding\Software University\Homeworks\Exams\12 July 2015\05. Wiggle Wiggle\bin\Debug\_05.Wiggle_Wiggle.pdb
+D:\Coding\Software University\Homeworks\Exams\12 July 2015\05. Wiggle Wiggle\obj\Debug\05. Wiggle Wiggle.csprojResolveAssemblyReference.cache
+D:\Coding\Software University\Homeworks\Exams\12 July 2015\05. Wiggle Wiggle\obj\Debug\_05.Wiggle_Wiggle.exe
+D:\Coding\Software University\Homeworks\Exams\12 July 2015\05. Wiggle Wiggle\obj\Debug\_05.Wiggle_Wiggle.pdb

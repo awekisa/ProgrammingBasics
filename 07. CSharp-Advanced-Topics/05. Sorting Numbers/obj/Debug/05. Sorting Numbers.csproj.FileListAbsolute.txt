@@ -1,0 +1,5 @@
+D:\Coding\Software University\Homeworks\07. CSharp-Advanced-Topics\05. Sorting Numbers\bin\Debug\_05.Sorting_Numbers.exe.config
+D:\Coding\Software University\Homeworks\07. CSharp-Advanced-Topics\05. Sorting Numbers\bin\Debug\_05.Sorting_Numbers.exe
+D:\Coding\Software University\Homeworks\07. CSharp-Advanced-Topics\05. Sorting Numbers\bin\Debug\_05.Sorting_Numbers.pdb
+D:\Coding\Software University\Homeworks\07. CSharp-Advanced-Topics\05. Sorting Numbers\obj\Debug\_05.Sorting_Numbers.exe
+D:\Coding\Software University\Homeworks\07. CSharp-Advanced-Topics\05. Sorting Numbers\obj\Debug\_05.Sorting_Numbers.pdb

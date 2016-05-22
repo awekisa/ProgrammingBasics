@@ -1,0 +1,8 @@
+D:\Coding\Software University\Homeworks\Primitive Data Types and Variables\Problem 13. Comparing Floats\bin\Debug\Problem_13.Comparing_Floats.exe.config
+D:\Coding\Software University\Homeworks\Primitive Data Types and Variables\Problem 13. Comparing Floats\bin\Debug\Problem_13.Comparing_Floats.exe
+D:\Coding\Software University\Homeworks\Primitive Data Types and Variables\Problem 13. Comparing Floats\bin\Debug\Problem_13.Comparing_Floats.pdb
+D:\Coding\Software University\Homeworks\Primitive Data Types and Variables\Problem 13. Comparing Floats\obj\Debug\Problem_13.Comparing_Floats.exe
+D:\Coding\Software University\Homeworks\Primitive Data Types and Variables\Problem 13. Comparing Floats\obj\Debug\Problem_13.Comparing_Floats.pdb
+D:\Coding\Software University\Homeworks\02. Primitive Data Types and Variables\Problem 13. Comparing Floats\bin\Debug\Problem_13.Comparing_Floats.exe.config
+D:\Coding\Software University\Homeworks\02. Primitive Data Types and Variables\Problem 13. Comparing Floats\obj\Debug\Problem_13.Comparing_Floats.exe
+D:\Coding\Software University\Homeworks\02. Primitive Data Types and Variables\Problem 13. Comparing Floats\obj\Debug\Problem_13.Comparing_Floats.pdb

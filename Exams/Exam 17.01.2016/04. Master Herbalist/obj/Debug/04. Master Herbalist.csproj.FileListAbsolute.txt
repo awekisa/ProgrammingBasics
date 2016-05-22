@@ -1,0 +1,6 @@
+D:\Coding\Software University\Homeworks\Exams\Exam 17.01.2016\04. Master Herbalist\bin\Debug\_04.Master_Herbalist.exe.config
+D:\Coding\Software University\Homeworks\Exams\Exam 17.01.2016\04. Master Herbalist\bin\Debug\_04.Master_Herbalist.exe
+D:\Coding\Software University\Homeworks\Exams\Exam 17.01.2016\04. Master Herbalist\bin\Debug\_04.Master_Herbalist.pdb
+D:\Coding\Software University\Homeworks\Exams\Exam 17.01.2016\04. Master Herbalist\obj\Debug\04. Master Herbalist.csprojResolveAssemblyReference.cache
+D:\Coding\Software University\Homeworks\Exams\Exam 17.01.2016\04. Master Herbalist\obj\Debug\_04.Master_Herbalist.exe
+D:\Coding\Software University\Homeworks\Exams\Exam 17.01.2016\04. Master Herbalist\obj\Debug\_04.Master_Herbalist.pdb

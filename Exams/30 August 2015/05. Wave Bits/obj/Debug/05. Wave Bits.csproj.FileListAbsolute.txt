@@ -1,0 +1,6 @@
+D:\Coding\Software University\Homeworks\Exams\30 August 2015\05. Wave Bits\bin\Debug\_05.Wave_Bits.exe.config
+D:\Coding\Software University\Homeworks\Exams\30 August 2015\05. Wave Bits\bin\Debug\_05.Wave_Bits.exe
+D:\Coding\Software University\Homeworks\Exams\30 August 2015\05. Wave Bits\bin\Debug\_05.Wave_Bits.pdb
+D:\Coding\Software University\Homeworks\Exams\30 August 2015\05. Wave Bits\obj\Debug\05. Wave Bits.csprojResolveAssemblyReference.cache
+D:\Coding\Software University\Homeworks\Exams\30 August 2015\05. Wave Bits\obj\Debug\_05.Wave_Bits.exe
+D:\Coding\Software University\Homeworks\Exams\30 August 2015\05. Wave Bits\obj\Debug\_05.Wave_Bits.pdb

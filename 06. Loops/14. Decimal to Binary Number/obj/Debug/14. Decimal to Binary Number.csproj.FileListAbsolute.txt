@@ -1,0 +1,5 @@
+D:\Coding\Software University\Homeworks\6. Loops\14. Decimal to Binary Number\bin\Debug\_14.Decimal_to_Binary_Number.exe.config
+D:\Coding\Software University\Homeworks\6. Loops\14. Decimal to Binary Number\bin\Debug\_14.Decimal_to_Binary_Number.exe
+D:\Coding\Software University\Homeworks\6. Loops\14. Decimal to Binary Number\bin\Debug\_14.Decimal_to_Binary_Number.pdb
+D:\Coding\Software University\Homeworks\6. Loops\14. Decimal to Binary Number\obj\Debug\_14.Decimal_to_Binary_Number.exe
+D:\Coding\Software University\Homeworks\6. Loops\14. Decimal to Binary Number\obj\Debug\_14.Decimal_to_Binary_Number.pdb

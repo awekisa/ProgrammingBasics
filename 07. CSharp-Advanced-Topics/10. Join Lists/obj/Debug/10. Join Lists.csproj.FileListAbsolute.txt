@@ -1,0 +1,6 @@
+D:\Coding\Software University\Homeworks\07. CSharp-Advanced-Topics\10. Join Lists\bin\Debug\_10.Join_Lists.exe.config
+D:\Coding\Software University\Homeworks\07. CSharp-Advanced-Topics\10. Join Lists\bin\Debug\_10.Join_Lists.exe
+D:\Coding\Software University\Homeworks\07. CSharp-Advanced-Topics\10. Join Lists\bin\Debug\_10.Join_Lists.pdb
+D:\Coding\Software University\Homeworks\07. CSharp-Advanced-Topics\10. Join Lists\obj\Debug\10. Join Lists.csprojResolveAssemblyReference.cache
+D:\Coding\Software University\Homeworks\07. CSharp-Advanced-Topics\10. Join Lists\obj\Debug\_10.Join_Lists.exe
+D:\Coding\Software University\Homeworks\07. CSharp-Advanced-Topics\10. Join Lists\obj\Debug\_10.Join_Lists.pdb

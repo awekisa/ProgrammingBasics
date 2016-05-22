@@ -1,0 +1,8 @@
+D:\Coding\Software University\Homeworks\TryBlankSolution\Intro-Programming-Homework\8 Square Root\bin\Debug\8 Square Root.exe.config
+D:\Coding\Software University\Homeworks\TryBlankSolution\Intro-Programming-Homework\8 Square Root\bin\Debug\8 Square Root.exe
+D:\Coding\Software University\Homeworks\TryBlankSolution\Intro-Programming-Homework\8 Square Root\bin\Debug\8 Square Root.pdb
+D:\Coding\Software University\Homeworks\TryBlankSolution\Intro-Programming-Homework\8 Square Root\obj\Debug\8 Square Root.exe
+D:\Coding\Software University\Homeworks\TryBlankSolution\Intro-Programming-Homework\8 Square Root\obj\Debug\8 Square Root.pdb
+D:\Coding\Software University\Homeworks\1. Intro-Programming-Homework\8 Square Root\bin\Debug\8 Square Root.exe.config
+D:\Coding\Software University\Homeworks\1. Intro-Programming-Homework\8 Square Root\obj\Debug\8 Square Root.exe
+D:\Coding\Software University\Homeworks\1. Intro-Programming-Homework\8 Square Root\obj\Debug\8 Square Root.pdb

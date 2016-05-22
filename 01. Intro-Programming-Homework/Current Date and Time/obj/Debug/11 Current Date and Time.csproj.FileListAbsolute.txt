@@ -1,0 +1,3 @@
+D:\Coding\Software University\Homeworks\TryBlankSolution\Intro-Programming-Homework\Current Date and Time\bin\Debug\Current Date and Time.exe.config
+D:\Coding\Software University\Homeworks\TryBlankSolution\Intro-Programming-Homework\Current Date and Time\obj\Debug\Current Date and Time.exe
+D:\Coding\Software University\Homeworks\TryBlankSolution\Intro-Programming-Homework\Current Date and Time\obj\Debug\Current Date and Time.pdb

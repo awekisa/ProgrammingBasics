@@ -1,0 +1,1 @@
+D:\Coding\Software University\Homeworks\6. Loops\07. Calculate N! Devided To (K! Times (N-K)!)\bin\Debug\_07.Calculate_N__Devided_To__K__Times__N_K___.exe.config

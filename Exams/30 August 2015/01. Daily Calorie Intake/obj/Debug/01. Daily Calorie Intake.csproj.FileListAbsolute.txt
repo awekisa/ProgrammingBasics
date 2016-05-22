@@ -1,0 +1,6 @@
+D:\Coding\Software University\Homeworks\Exams\30 August 2015\01. Daily Calorie Intake\bin\Debug\_01.Daily_Calorie_Intake.exe.config
+D:\Coding\Software University\Homeworks\Exams\30 August 2015\01. Daily Calorie Intake\bin\Debug\_01.Daily_Calorie_Intake.exe
+D:\Coding\Software University\Homeworks\Exams\30 August 2015\01. Daily Calorie Intake\bin\Debug\_01.Daily_Calorie_Intake.pdb
+D:\Coding\Software University\Homeworks\Exams\30 August 2015\01. Daily Calorie Intake\obj\Debug\01. Daily Calorie Intake.csprojResolveAssemblyReference.cache
+D:\Coding\Software University\Homeworks\Exams\30 August 2015\01. Daily Calorie Intake\obj\Debug\_01.Daily_Calorie_Intake.exe
+D:\Coding\Software University\Homeworks\Exams\30 August 2015\01. Daily Calorie Intake\obj\Debug\_01.Daily_Calorie_Intake.pdb

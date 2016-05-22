@@ -1,0 +1,5 @@
+D:\Coding\Software University\Homeworks\Exams\12 July 2015\03. Summertime\bin\Debug\_03.Summertime.exe.config
+D:\Coding\Software University\Homeworks\Exams\12 July 2015\03. Summertime\bin\Debug\_03.Summertime.exe
+D:\Coding\Software University\Homeworks\Exams\12 July 2015\03. Summertime\bin\Debug\_03.Summertime.pdb
+D:\Coding\Software University\Homeworks\Exams\12 July 2015\03. Summertime\obj\Debug\_03.Summertime.exe
+D:\Coding\Software University\Homeworks\Exams\12 July 2015\03. Summertime\obj\Debug\_03.Summertime.pdb

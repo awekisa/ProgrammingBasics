@@ -1,0 +1,6 @@
+D:\Coding\Software University\Homeworks\Exams\18 October 2015\04. FirefightingOrganization\bin\Debug\_04.FirefightingOrganization.exe.config
+D:\Coding\Software University\Homeworks\Exams\18 October 2015\04. FirefightingOrganization\bin\Debug\_04.FirefightingOrganization.exe
+D:\Coding\Software University\Homeworks\Exams\18 October 2015\04. FirefightingOrganization\bin\Debug\_04.FirefightingOrganization.pdb
+D:\Coding\Software University\Homeworks\Exams\18 October 2015\04. FirefightingOrganization\obj\Debug\04. FirefightingOrganization.csprojResolveAssemblyReference.cache
+D:\Coding\Software University\Homeworks\Exams\18 October 2015\04. FirefightingOrganization\obj\Debug\_04.FirefightingOrganization.exe
+D:\Coding\Software University\Homeworks\Exams\18 October 2015\04. FirefightingOrganization\obj\Debug\_04.FirefightingOrganization.pdb

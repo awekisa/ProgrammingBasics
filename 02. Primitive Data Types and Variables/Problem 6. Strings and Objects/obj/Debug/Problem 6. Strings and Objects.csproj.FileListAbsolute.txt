@@ -1,0 +1,8 @@
+D:\Coding\Software University\Homeworks\Primitive Data Types and Variables\Problem 6. Strings and Objects\bin\Debug\Problem_6.Strings_and_Objects.exe.config
+D:\Coding\Software University\Homeworks\Primitive Data Types and Variables\Problem 6. Strings and Objects\bin\Debug\Problem_6.Strings_and_Objects.exe
+D:\Coding\Software University\Homeworks\Primitive Data Types and Variables\Problem 6. Strings and Objects\bin\Debug\Problem_6.Strings_and_Objects.pdb
+D:\Coding\Software University\Homeworks\Primitive Data Types and Variables\Problem 6. Strings and Objects\obj\Debug\Problem_6.Strings_and_Objects.exe
+D:\Coding\Software University\Homeworks\Primitive Data Types and Variables\Problem 6. Strings and Objects\obj\Debug\Problem_6.Strings_and_Objects.pdb
+D:\Coding\Software University\Homeworks\02. Primitive Data Types and Variables\Problem 6. Strings and Objects\bin\Debug\Problem_6.Strings_and_Objects.exe.config
+D:\Coding\Software University\Homeworks\02. Primitive Data Types and Variables\Problem 6. Strings and Objects\obj\Debug\Problem_6.Strings_and_Objects.exe
+D:\Coding\Software University\Homeworks\02. Primitive Data Types and Variables\Problem 6. Strings and Objects\obj\Debug\Problem_6.Strings_and_Objects.pdb

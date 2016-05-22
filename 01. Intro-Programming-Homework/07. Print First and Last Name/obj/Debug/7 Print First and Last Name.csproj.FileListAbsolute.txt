@@ -1,0 +1,8 @@
+D:\Coding\Software University\Homeworks\TryBlankSolution\Intro-Programming-Homework\7 Print First and Last Name\bin\Debug\7 Print First and Last Name.exe.config
+D:\Coding\Software University\Homeworks\TryBlankSolution\Intro-Programming-Homework\7 Print First and Last Name\bin\Debug\7 Print First and Last Name.exe
+D:\Coding\Software University\Homeworks\TryBlankSolution\Intro-Programming-Homework\7 Print First and Last Name\bin\Debug\7 Print First and Last Name.pdb
+D:\Coding\Software University\Homeworks\TryBlankSolution\Intro-Programming-Homework\7 Print First and Last Name\obj\Debug\7 Print First and Last Name.exe
+D:\Coding\Software University\Homeworks\TryBlankSolution\Intro-Programming-Homework\7 Print First and Last Name\obj\Debug\7 Print First and Last Name.pdb
+D:\Coding\Software University\Homeworks\1. Intro-Programming-Homework\7 Print First and Last Name\bin\Debug\7 Print First and Last Name.exe.config
+D:\Coding\Software University\Homeworks\1. Intro-Programming-Homework\7 Print First and Last Name\obj\Debug\7 Print First and Last Name.exe
+D:\Coding\Software University\Homeworks\1. Intro-Programming-Homework\7 Print First and Last Name\obj\Debug\7 Print First and Last Name.pdb

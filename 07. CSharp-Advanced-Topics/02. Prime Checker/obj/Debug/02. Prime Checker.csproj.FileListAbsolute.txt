@@ -1,0 +1,6 @@
+D:\Coding\Software University\Homeworks\07. CSharp-Advanced-Topics\02. Prime Checker\bin\Debug\_02.Prime_Checker.exe.config
+D:\Coding\Software University\Homeworks\07. CSharp-Advanced-Topics\02. Prime Checker\bin\Debug\_02.Prime_Checker.exe
+D:\Coding\Software University\Homeworks\07. CSharp-Advanced-Topics\02. Prime Checker\bin\Debug\_02.Prime_Checker.pdb
+D:\Coding\Software University\Homeworks\07. CSharp-Advanced-Topics\02. Prime Checker\obj\Debug\02. Prime Checker.csprojResolveAssemblyReference.cache
+D:\Coding\Software University\Homeworks\07. CSharp-Advanced-Topics\02. Prime Checker\obj\Debug\_02.Prime_Checker.exe
+D:\Coding\Software University\Homeworks\07. CSharp-Advanced-Topics\02. Prime Checker\obj\Debug\_02.Prime_Checker.pdb

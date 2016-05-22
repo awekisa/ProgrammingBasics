@@ -1,0 +1,6 @@
+D:\Coding\Software University\Homeworks\4. Operators Expressions and Statements\16. Bit Exchange (Advanced)\bin\Debug\_16.Bit_Exchange__Advanced_.exe.config
+D:\Coding\Software University\Homeworks\4. Operators Expressions and Statements\16. Bit Exchange (Advanced)\bin\Debug\_16.Bit_Exchange__Advanced_.exe
+D:\Coding\Software University\Homeworks\4. Operators Expressions and Statements\16. Bit Exchange (Advanced)\bin\Debug\_16.Bit_Exchange__Advanced_.pdb
+D:\Coding\Software University\Homeworks\4. Operators Expressions and Statements\16. Bit Exchange (Advanced)\obj\Debug\16. Bit Exchange (Advanced).csprojResolveAssemblyReference.cache
+D:\Coding\Software University\Homeworks\4. Operators Expressions and Statements\16. Bit Exchange (Advanced)\obj\Debug\_16.Bit_Exchange__Advanced_.exe
+D:\Coding\Software University\Homeworks\4. Operators Expressions and Statements\16. Bit Exchange (Advanced)\obj\Debug\_16.Bit_Exchange__Advanced_.pdb

@@ -1,0 +1,8 @@
+D:\Coding\Software University\Homeworks\TryBlankSolution\Intro-Programming-Homework\6 Print Numbers\bin\Debug\6 Print Numbers.exe.config
+D:\Coding\Software University\Homeworks\TryBlankSolution\Intro-Programming-Homework\6 Print Numbers\bin\Debug\6 Print Numbers.exe
+D:\Coding\Software University\Homeworks\TryBlankSolution\Intro-Programming-Homework\6 Print Numbers\bin\Debug\6 Print Numbers.pdb
+D:\Coding\Software University\Homeworks\TryBlankSolution\Intro-Programming-Homework\6 Print Numbers\obj\Debug\6 Print Numbers.exe
+D:\Coding\Software University\Homeworks\TryBlankSolution\Intro-Programming-Homework\6 Print Numbers\obj\Debug\6 Print Numbers.pdb
+D:\Coding\Software University\Homeworks\1. Intro-Programming-Homework\6 Print Numbers\bin\Debug\6 Print Numbers.exe.config
+D:\Coding\Software University\Homeworks\1. Intro-Programming-Homework\6 Print Numbers\obj\Debug\6 Print Numbers.exe
+D:\Coding\Software University\Homeworks\1. Intro-Programming-Homework\6 Print Numbers\obj\Debug\6 Print Numbers.pdb

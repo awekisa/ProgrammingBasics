@@ -1,0 +1,6 @@
+D:\Coding\Software University\Homeworks\Exams\Exam 17.01.2016\05. Emergency Repairs\bin\Debug\_05.Emergency_Repairs.exe.config
+D:\Coding\Software University\Homeworks\Exams\Exam 17.01.2016\05. Emergency Repairs\bin\Debug\_05.Emergency_Repairs.exe
+D:\Coding\Software University\Homeworks\Exams\Exam 17.01.2016\05. Emergency Repairs\bin\Debug\_05.Emergency_Repairs.pdb
+D:\Coding\Software University\Homeworks\Exams\Exam 17.01.2016\05. Emergency Repairs\obj\Debug\05. Emergency Repairs.csprojResolveAssemblyReference.cache
+D:\Coding\Software University\Homeworks\Exams\Exam 17.01.2016\05. Emergency Repairs\obj\Debug\_05.Emergency_Repairs.exe
+D:\Coding\Software University\Homeworks\Exams\Exam 17.01.2016\05. Emergency Repairs\obj\Debug\_05.Emergency_Repairs.pdb

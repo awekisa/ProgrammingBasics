@@ -1,0 +1,6 @@
+D:\Coding\Software University\Homeworks\Exams\18 October 2015\05. Bohemcho The Bad Ghost\bin\Debug\_05.Bohemcho_The_Bad_Ghost.exe.config
+D:\Coding\Software University\Homeworks\Exams\18 October 2015\05. Bohemcho The Bad Ghost\bin\Debug\_05.Bohemcho_The_Bad_Ghost.exe
+D:\Coding\Software University\Homeworks\Exams\18 October 2015\05. Bohemcho The Bad Ghost\bin\Debug\_05.Bohemcho_The_Bad_Ghost.pdb
+D:\Coding\Software University\Homeworks\Exams\18 October 2015\05. Bohemcho The Bad Ghost\obj\Debug\05. Bohemcho The Bad Ghost.csprojResolveAssemblyReference.cache
+D:\Coding\Software University\Homeworks\Exams\18 October 2015\05. Bohemcho The Bad Ghost\obj\Debug\_05.Bohemcho_The_Bad_Ghost.exe
+D:\Coding\Software University\Homeworks\Exams\18 October 2015\05. Bohemcho The Bad Ghost\obj\Debug\_05.Bohemcho_The_Bad_Ghost.pdb

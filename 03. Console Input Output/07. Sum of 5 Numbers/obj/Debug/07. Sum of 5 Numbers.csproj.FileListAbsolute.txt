@@ -1,0 +1,8 @@
+D:\Coding\Software University\Homeworks\3. Console Input Output\07. Sum of 5 Numbers\bin\Debug\_07.Sum_of_5_Numbers.exe.config
+D:\Coding\Software University\Homeworks\3. Console Input Output\07. Sum of 5 Numbers\bin\Debug\_07.Sum_of_5_Numbers.exe
+D:\Coding\Software University\Homeworks\3. Console Input Output\07. Sum of 5 Numbers\bin\Debug\_07.Sum_of_5_Numbers.pdb
+D:\Coding\Software University\Homeworks\3. Console Input Output\07. Sum of 5 Numbers\obj\Debug\_07.Sum_of_5_Numbers.exe
+D:\Coding\Software University\Homeworks\3. Console Input Output\07. Sum of 5 Numbers\obj\Debug\_07.Sum_of_5_Numbers.pdb
+D:\Coding\Software University\Homeworks\03. Console Input Output\07. Sum of 5 Numbers\bin\Debug\_07.Sum_of_5_Numbers.exe.config
+D:\Coding\Software University\Homeworks\03. Console Input Output\07. Sum of 5 Numbers\obj\Debug\_07.Sum_of_5_Numbers.exe
+D:\Coding\Software University\Homeworks\03. Console Input Output\07. Sum of 5 Numbers\obj\Debug\_07.Sum_of_5_Numbers.pdb

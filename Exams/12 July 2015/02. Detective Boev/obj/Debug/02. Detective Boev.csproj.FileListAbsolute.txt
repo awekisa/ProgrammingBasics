@@ -1,0 +1,6 @@
+D:\Coding\Software University\Homeworks\Exams\12 July 2015\02. Detective Boev\bin\Debug\_02.Detective_Boev.exe.config
+D:\Coding\Software University\Homeworks\Exams\12 July 2015\02. Detective Boev\bin\Debug\_02.Detective_Boev.exe
+D:\Coding\Software University\Homeworks\Exams\12 July 2015\02. Detective Boev\bin\Debug\_02.Detective_Boev.pdb
+D:\Coding\Software University\Homeworks\Exams\12 July 2015\02. Detective Boev\obj\Debug\02. Detective Boev.csprojResolveAssemblyReference.cache
+D:\Coding\Software University\Homeworks\Exams\12 July 2015\02. Detective Boev\obj\Debug\_02.Detective_Boev.exe
+D:\Coding\Software University\Homeworks\Exams\12 July 2015\02. Detective Boev\obj\Debug\_02.Detective_Boev.pdb

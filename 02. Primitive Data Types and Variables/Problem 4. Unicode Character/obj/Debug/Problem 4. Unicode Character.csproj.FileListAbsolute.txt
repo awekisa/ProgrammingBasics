@@ -1,0 +1,8 @@
+D:\Coding\Software University\Homeworks\Primitive Data Types and Variables\Problem 4. Unicode Character\bin\Debug\Problem_4.Unicode_Character.exe.config
+D:\Coding\Software University\Homeworks\Primitive Data Types and Variables\Problem 4. Unicode Character\bin\Debug\Problem_4.Unicode_Character.exe
+D:\Coding\Software University\Homeworks\Primitive Data Types and Variables\Problem 4. Unicode Character\bin\Debug\Problem_4.Unicode_Character.pdb
+D:\Coding\Software University\Homeworks\Primitive Data Types and Variables\Problem 4. Unicode Character\obj\Debug\Problem_4.Unicode_Character.exe
+D:\Coding\Software University\Homeworks\Primitive Data Types and Variables\Problem 4. Unicode Character\obj\Debug\Problem_4.Unicode_Character.pdb
+D:\Coding\Software University\Homeworks\02. Primitive Data Types and Variables\Problem 4. Unicode Character\bin\Debug\Problem_4.Unicode_Character.exe.config
+D:\Coding\Software University\Homeworks\02. Primitive Data Types and Variables\Problem 4. Unicode Character\obj\Debug\Problem_4.Unicode_Character.exe
+D:\Coding\Software University\Homeworks\02. Primitive Data Types and Variables\Problem 4. Unicode Character\obj\Debug\Problem_4.Unicode_Character.pdb

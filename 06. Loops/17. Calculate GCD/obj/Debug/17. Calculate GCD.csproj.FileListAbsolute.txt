@@ -1,0 +1,6 @@
+D:\Coding\Software University\Homeworks\6. Loops\17. Calculate GCD\bin\Debug\_17.Calculate_GCD.exe.config
+D:\Coding\Software University\Homeworks\6. Loops\17. Calculate GCD\bin\Debug\_17.Calculate_GCD.exe
+D:\Coding\Software University\Homeworks\6. Loops\17. Calculate GCD\bin\Debug\_17.Calculate_GCD.pdb
+D:\Coding\Software University\Homeworks\6. Loops\17. Calculate GCD\obj\Debug\17. Calculate GCD.csprojResolveAssemblyReference.cache
+D:\Coding\Software University\Homeworks\6. Loops\17. Calculate GCD\obj\Debug\_17.Calculate_GCD.exe
+D:\Coding\Software University\Homeworks\6. Loops\17. Calculate GCD\obj\Debug\_17.Calculate_GCD.pdb

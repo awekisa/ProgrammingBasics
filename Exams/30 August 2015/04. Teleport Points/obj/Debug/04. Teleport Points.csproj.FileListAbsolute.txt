@@ -1,0 +1,6 @@
+D:\Coding\Software University\Homeworks\Exams\30 August 2015\04. Teleport Points\bin\Debug\_04.Teleport_Points.exe.config
+D:\Coding\Software University\Homeworks\Exams\30 August 2015\04. Teleport Points\bin\Debug\_04.Teleport_Points.exe
+D:\Coding\Software University\Homeworks\Exams\30 August 2015\04. Teleport Points\bin\Debug\_04.Teleport_Points.pdb
+D:\Coding\Software University\Homeworks\Exams\30 August 2015\04. Teleport Points\obj\Debug\04. Teleport Points.csprojResolveAssemblyReference.cache
+D:\Coding\Software University\Homeworks\Exams\30 August 2015\04. Teleport Points\obj\Debug\_04.Teleport_Points.exe
+D:\Coding\Software University\Homeworks\Exams\30 August 2015\04. Teleport Points\obj\Debug\_04.Teleport_Points.pdb

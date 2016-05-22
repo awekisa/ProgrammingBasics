@@ -1,0 +1,8 @@
+D:\Coding\Software University\Homeworks\Primitive Data Types and Variables\Problem 8. Isosceles Triangle\bin\Debug\Problem_8.Isosceles_Triangle.exe.config
+D:\Coding\Software University\Homeworks\Primitive Data Types and Variables\Problem 8. Isosceles Triangle\bin\Debug\Problem_8.Isosceles_Triangle.exe
+D:\Coding\Software University\Homeworks\Primitive Data Types and Variables\Problem 8. Isosceles Triangle\bin\Debug\Problem_8.Isosceles_Triangle.pdb
+D:\Coding\Software University\Homeworks\Primitive Data Types and Variables\Problem 8. Isosceles Triangle\obj\Debug\Problem_8.Isosceles_Triangle.exe
+D:\Coding\Software University\Homeworks\Primitive Data Types and Variables\Problem 8. Isosceles Triangle\obj\Debug\Problem_8.Isosceles_Triangle.pdb
+D:\Coding\Software University\Homeworks\02. Primitive Data Types and Variables\Problem 8. Isosceles Triangle\bin\Debug\Problem_8.Isosceles_Triangle.exe.config
+D:\Coding\Software University\Homeworks\02. Primitive Data Types and Variables\Problem 8. Isosceles Triangle\obj\Debug\Problem_8.Isosceles_Triangle.exe
+D:\Coding\Software University\Homeworks\02. Primitive Data Types and Variables\Problem 8. Isosceles Triangle\obj\Debug\Problem_8.Isosceles_Triangle.pdb

@@ -1,0 +1,6 @@
+D:\Coding\Software University\Homeworks\4. Operators Expressions and Statements\01. Odd or Even Integers\bin\Debug\_01.Odd_or_Even_Integers.exe.config
+D:\Coding\Software University\Homeworks\4. Operators Expressions and Statements\01. Odd or Even Integers\bin\Debug\_01.Odd_or_Even_Integers.exe
+D:\Coding\Software University\Homeworks\4. Operators Expressions and Statements\01. Odd or Even Integers\bin\Debug\_01.Odd_or_Even_Integers.pdb
+D:\Coding\Software University\Homeworks\4. Operators Expressions and Statements\01. Odd or Even Integers\obj\Debug\01. Odd or Even Integers.csprojResolveAssemblyReference.cache
+D:\Coding\Software University\Homeworks\4. Operators Expressions and Statements\01. Odd or Even Integers\obj\Debug\_01.Odd_or_Even_Integers.exe
+D:\Coding\Software University\Homeworks\4. Operators Expressions and Statements\01. Odd or Even Integers\obj\Debug\_01.Odd_or_Even_Integers.pdb

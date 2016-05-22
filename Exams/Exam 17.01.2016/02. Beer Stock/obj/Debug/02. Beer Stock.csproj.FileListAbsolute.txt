@@ -1,0 +1,6 @@
+D:\Coding\Software University\Homeworks\Exams\Exam 17.01.2016\02. Beer Stock\bin\Debug\_02.Beer_Stock.exe.config
+D:\Coding\Software University\Homeworks\Exams\Exam 17.01.2016\02. Beer Stock\bin\Debug\_02.Beer_Stock.exe
+D:\Coding\Software University\Homeworks\Exams\Exam 17.01.2016\02. Beer Stock\bin\Debug\_02.Beer_Stock.pdb
+D:\Coding\Software University\Homeworks\Exams\Exam 17.01.2016\02. Beer Stock\obj\Debug\_02.Beer_Stock.exe
+D:\Coding\Software University\Homeworks\Exams\Exam 17.01.2016\02. Beer Stock\obj\Debug\_02.Beer_Stock.pdb
+D:\Coding\Software University\Homeworks\Exams\Exam 17.01.2016\02. Beer Stock\obj\Debug\02. Beer Stock.csprojResolveAssemblyReference.cache

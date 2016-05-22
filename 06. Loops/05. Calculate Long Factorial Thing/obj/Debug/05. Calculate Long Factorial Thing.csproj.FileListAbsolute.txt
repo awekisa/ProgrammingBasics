@@ -1,0 +1,6 @@
+D:\Coding\Software University\Homeworks\6. Loops\05. Calculate Long Factorial Thing\bin\Debug\_05.Calculate_Long_Factorial_Thing.exe.config
+D:\Coding\Software University\Homeworks\6. Loops\05. Calculate Long Factorial Thing\bin\Debug\_05.Calculate_Long_Factorial_Thing.exe
+D:\Coding\Software University\Homeworks\6. Loops\05. Calculate Long Factorial Thing\bin\Debug\_05.Calculate_Long_Factorial_Thing.pdb
+D:\Coding\Software University\Homeworks\6. Loops\05. Calculate Long Factorial Thing\obj\Debug\05. Calculate Long Factorial Thing.csprojResolveAssemblyReference.cache
+D:\Coding\Software University\Homeworks\6. Loops\05. Calculate Long Factorial Thing\obj\Debug\_05.Calculate_Long_Factorial_Thing.exe
+D:\Coding\Software University\Homeworks\6. Loops\05. Calculate Long Factorial Thing\obj\Debug\_05.Calculate_Long_Factorial_Thing.pdb

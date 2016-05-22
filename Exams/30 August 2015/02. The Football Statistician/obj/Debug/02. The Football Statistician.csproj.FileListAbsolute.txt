@@ -1,0 +1,6 @@
+D:\Coding\Software University\Homeworks\Exams\30 August 2015\02. The Football Statistician\bin\Debug\_02.The_Football_Statistician.exe.config
+D:\Coding\Software University\Homeworks\Exams\30 August 2015\02. The Football Statistician\bin\Debug\_02.The_Football_Statistician.exe
+D:\Coding\Software University\Homeworks\Exams\30 August 2015\02. The Football Statistician\bin\Debug\_02.The_Football_Statistician.pdb
+D:\Coding\Software University\Homeworks\Exams\30 August 2015\02. The Football Statistician\obj\Debug\_02.The_Football_Statistician.exe
+D:\Coding\Software University\Homeworks\Exams\30 August 2015\02. The Football Statistician\obj\Debug\_02.The_Football_Statistician.pdb
+D:\Coding\Software University\Homeworks\Exams\30 August 2015\02. The Football Statistician\obj\Debug\02. The Football Statistician.csprojResolveAssemblyReference.cache

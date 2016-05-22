@@ -1,0 +1,6 @@
+D:\Coding\Software University\Homeworks\4. Operators Expressions and Statements\15. Bits Exchange\bin\Debug\_15.Bits_Exchange.exe.config
+D:\Coding\Software University\Homeworks\4. Operators Expressions and Statements\15. Bits Exchange\bin\Debug\_15.Bits_Exchange.exe
+D:\Coding\Software University\Homeworks\4. Operators Expressions and Statements\15. Bits Exchange\bin\Debug\_15.Bits_Exchange.pdb
+D:\Coding\Software University\Homeworks\4. Operators Expressions and Statements\15. Bits Exchange\obj\Debug\15. Bits Exchange.csprojResolveAssemblyReference.cache
+D:\Coding\Software University\Homeworks\4. Operators Expressions and Statements\15. Bits Exchange\obj\Debug\_15.Bits_Exchange.exe
+D:\Coding\Software University\Homeworks\4. Operators Expressions and Statements\15. Bits Exchange\obj\Debug\_15.Bits_Exchange.pdb

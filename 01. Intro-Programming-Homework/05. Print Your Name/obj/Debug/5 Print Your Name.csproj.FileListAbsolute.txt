@@ -1,0 +1,8 @@
+D:\Coding\Software University\Homeworks\TryBlankSolution\Intro-Programming-Homework\5 Print Your Name\bin\Debug\5 Print Your Name.exe.config
+D:\Coding\Software University\Homeworks\TryBlankSolution\Intro-Programming-Homework\5 Print Your Name\bin\Debug\5 Print Your Name.exe
+D:\Coding\Software University\Homeworks\TryBlankSolution\Intro-Programming-Homework\5 Print Your Name\bin\Debug\5 Print Your Name.pdb
+D:\Coding\Software University\Homeworks\TryBlankSolution\Intro-Programming-Homework\5 Print Your Name\obj\Debug\5 Print Your Name.exe
+D:\Coding\Software University\Homeworks\TryBlankSolution\Intro-Programming-Homework\5 Print Your Name\obj\Debug\5 Print Your Name.pdb
+D:\Coding\Software University\Homeworks\1. Intro-Programming-Homework\5 Print Your Name\bin\Debug\5 Print Your Name.exe.config
+D:\Coding\Software University\Homeworks\1. Intro-Programming-Homework\5 Print Your Name\obj\Debug\5 Print Your Name.exe
+D:\Coding\Software University\Homeworks\1. Intro-Programming-Homework\5 Print Your Name\obj\Debug\5 Print Your Name.pdb

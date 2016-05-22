@@ -1,0 +1,2 @@
+D:\Coding\Software University\Homeworks\Primitive Data Types and Variables\Problem 11. Bank Account Data\bin\Debug\Problem_11.Bank_Account_Data.exe.config
+D:\Coding\Software University\Homeworks\02. Primitive Data Types and Variables\Problem 11. Bank Account Data\bin\Debug\Problem_11.Bank_Account_Data.exe.config

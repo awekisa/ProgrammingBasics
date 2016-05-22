@@ -1,0 +1,6 @@
+D:\Coding\Software University\Homeworks\4. Operators Expressions and Statements\10. Inside a Circle Outside of a Rectangle\bin\Debug\_10.Inside_a_Circle_Outside_of_a_Rectangle.exe.config
+D:\Coding\Software University\Homeworks\4. Operators Expressions and Statements\10. Inside a Circle Outside of a Rectangle\bin\Debug\_10.Inside_a_Circle_Outside_of_a_Rectangle.exe
+D:\Coding\Software University\Homeworks\4. Operators Expressions and Statements\10. Inside a Circle Outside of a Rectangle\bin\Debug\_10.Inside_a_Circle_Outside_of_a_Rectangle.pdb
+D:\Coding\Software University\Homeworks\4. Operators Expressions and Statements\10. Inside a Circle Outside of a Rectangle\obj\Debug\10. Inside a Circle Outside of a Rectangle.csprojResolveAssemblyReference.cache
+D:\Coding\Software University\Homeworks\4. Operators Expressions and Statements\10. Inside a Circle Outside of a Rectangle\obj\Debug\_10.Inside_a_Circle_Outside_of_a_Rectangle.exe
+D:\Coding\Software University\Homeworks\4. Operators Expressions and Statements\10. Inside a Circle Outside of a Rectangle\obj\Debug\_10.Inside_a_Circle_Outside_of_a_Rectangle.pdb

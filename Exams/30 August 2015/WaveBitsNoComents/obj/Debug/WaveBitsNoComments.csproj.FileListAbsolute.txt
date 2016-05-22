@@ -1,0 +1,5 @@
+D:\Coding\Software University\Homeworks\Exams\30 August 2015\WaveBitsNoComents\bin\Debug\WaveBitsNoComents.exe.config
+D:\Coding\Software University\Homeworks\Exams\30 August 2015\WaveBitsNoComents\bin\Debug\WaveBitsNoComents.exe
+D:\Coding\Software University\Homeworks\Exams\30 August 2015\WaveBitsNoComents\bin\Debug\WaveBitsNoComents.pdb
+D:\Coding\Software University\Homeworks\Exams\30 August 2015\WaveBitsNoComents\obj\Debug\WaveBitsNoComents.exe
+D:\Coding\Software University\Homeworks\Exams\30 August 2015\WaveBitsNoComents\obj\Debug\WaveBitsNoComents.pdb

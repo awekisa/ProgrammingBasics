@@ -1,0 +1,6 @@
+D:\Coding\Software University\Homeworks\4. Operators Expressions and Statements\12. Extract Bit from Integer\bin\Debug\_12.Extract_Bit_from_Integer.exe.config
+D:\Coding\Software University\Homeworks\4. Operators Expressions and Statements\12. Extract Bit from Integer\bin\Debug\_12.Extract_Bit_from_Integer.exe
+D:\Coding\Software University\Homeworks\4. Operators Expressions and Statements\12. Extract Bit from Integer\bin\Debug\_12.Extract_Bit_from_Integer.pdb
+D:\Coding\Software University\Homeworks\4. Operators Expressions and Statements\12. Extract Bit from Integer\obj\Debug\12. Extract Bit from Integer.csprojResolveAssemblyReference.cache
+D:\Coding\Software University\Homeworks\4. Operators Expressions and Statements\12. Extract Bit from Integer\obj\Debug\_12.Extract_Bit_from_Integer.exe
+D:\Coding\Software University\Homeworks\4. Operators Expressions and Statements\12. Extract Bit from Integer\obj\Debug\_12.Extract_Bit_from_Integer.pdb

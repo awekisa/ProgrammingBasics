@@ -1,0 +1,6 @@
+D:\Coding\Software University\Homeworks\6. Loops\18. Trailing Zeroes In N\bin\Debug\_18.Trailing_Zeroes_In_N.exe.config
+D:\Coding\Software University\Homeworks\6. Loops\18. Trailing Zeroes In N\bin\Debug\_18.Trailing_Zeroes_In_N.exe
+D:\Coding\Software University\Homeworks\6. Loops\18. Trailing Zeroes In N\bin\Debug\_18.Trailing_Zeroes_In_N.pdb
+D:\Coding\Software University\Homeworks\6. Loops\18. Trailing Zeroes In N\obj\Debug\_18.Trailing_Zeroes_In_N.exe
+D:\Coding\Software University\Homeworks\6. Loops\18. Trailing Zeroes In N\obj\Debug\_18.Trailing_Zeroes_In_N.pdb
+D:\Coding\Software University\Homeworks\6. Loops\18. Trailing Zeroes In N\obj\Debug\18. Trailing Zeroes In N.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+D:\Coding\Software University\Homeworks\TryBlankSolution\Intro-Programming-Homework\4 Hello World\bin\Debug\4 Hello World.exe.config
+D:\Coding\Software University\Homeworks\TryBlankSolution\Intro-Programming-Homework\4 Hello World\bin\Debug\4 Hello World.exe
+D:\Coding\Software University\Homeworks\TryBlankSolution\Intro-Programming-Homework\4 Hello World\bin\Debug\4 Hello World.pdb
+D:\Coding\Software University\Homeworks\TryBlankSolution\Intro-Programming-Homework\4 Hello World\obj\Debug\4 Hello World.csprojResolveAssemblyReference.cache
+D:\Coding\Software University\Homeworks\TryBlankSolution\Intro-Programming-Homework\4 Hello World\obj\Debug\4 Hello World.exe
+D:\Coding\Software University\Homeworks\TryBlankSolution\Intro-Programming-Homework\4 Hello World\obj\Debug\4 Hello World.pdb
+D:\Coding\Software University\Homeworks\1. Intro-Programming-Homework\4 Hello World\bin\Debug\4 Hello World.exe.config
+D:\Coding\Software University\Homeworks\1. Intro-Programming-Homework\4 Hello World\obj\Debug\4 Hello World.exe
+D:\Coding\Software University\Homeworks\1. Intro-Programming-Homework\4 Hello World\obj\Debug\4 Hello World.pdb

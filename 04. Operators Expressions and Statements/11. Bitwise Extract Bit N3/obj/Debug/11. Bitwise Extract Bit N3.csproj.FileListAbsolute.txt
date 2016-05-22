@@ -1,0 +1,6 @@
+D:\Coding\Software University\Homeworks\4. Operators Expressions and Statements\11. Bitwise Extract Bit N3\bin\Debug\_11.Bitwise_Extract_Bit_N3.exe.config
+D:\Coding\Software University\Homeworks\4. Operators Expressions and Statements\11. Bitwise Extract Bit N3\bin\Debug\_11.Bitwise_Extract_Bit_N3.exe
+D:\Coding\Software University\Homeworks\4. Operators Expressions and Statements\11. Bitwise Extract Bit N3\bin\Debug\_11.Bitwise_Extract_Bit_N3.pdb
+D:\Coding\Software University\Homeworks\4. Operators Expressions and Statements\11. Bitwise Extract Bit N3\obj\Debug\_11.Bitwise_Extract_Bit_N3.exe
+D:\Coding\Software University\Homeworks\4. Operators Expressions and Statements\11. Bitwise Extract Bit N3\obj\Debug\_11.Bitwise_Extract_Bit_N3.pdb
+D:\Coding\Software University\Homeworks\4. Operators Expressions and Statements\11. Bitwise Extract Bit N3\obj\Debug\11. Bitwise Extract Bit N3.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\Coding\Software University\Homeworks\Exams\12 July 2015\01. Four Factors\bin\Debug\_01.Four_Factors.exe.config
+D:\Coding\Software University\Homeworks\Exams\12 July 2015\01. Four Factors\bin\Debug\_01.Four_Factors.exe
+D:\Coding\Software University\Homeworks\Exams\12 July 2015\01. Four Factors\bin\Debug\_01.Four_Factors.pdb
+D:\Coding\Software University\Homeworks\Exams\12 July 2015\01. Four Factors\obj\Debug\01. Four Factors.csprojResolveAssemblyReference.cache
+D:\Coding\Software University\Homeworks\Exams\12 July 2015\01. Four Factors\obj\Debug\_01.Four_Factors.exe
+D:\Coding\Software University\Homeworks\Exams\12 July 2015\01. Four Factors\obj\Debug\_01.Four_Factors.pdb

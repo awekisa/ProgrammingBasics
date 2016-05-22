@@ -1,0 +1,6 @@
+D:\Coding\Software University\Homeworks\Exams\18 October 2015\03. PlaidTowel\bin\Debug\_03.PlaidTowel.exe.config
+D:\Coding\Software University\Homeworks\Exams\18 October 2015\03. PlaidTowel\bin\Debug\_03.PlaidTowel.exe
+D:\Coding\Software University\Homeworks\Exams\18 October 2015\03. PlaidTowel\bin\Debug\_03.PlaidTowel.pdb
+D:\Coding\Software University\Homeworks\Exams\18 October 2015\03. PlaidTowel\obj\Debug\03. PlaidTowel.csprojResolveAssemblyReference.cache
+D:\Coding\Software University\Homeworks\Exams\18 October 2015\03. PlaidTowel\obj\Debug\_03.PlaidTowel.exe
+D:\Coding\Software University\Homeworks\Exams\18 October 2015\03. PlaidTowel\obj\Debug\_03.PlaidTowel.pdb

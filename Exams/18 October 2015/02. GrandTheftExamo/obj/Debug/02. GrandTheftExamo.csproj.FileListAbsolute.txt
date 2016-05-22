@@ -1,0 +1,6 @@
+D:\Coding\Software University\Homeworks\Exams\18 October 2015\02. GrandTheftExamo\bin\Debug\_02.GrandTheftExamo.exe.config
+D:\Coding\Software University\Homeworks\Exams\18 October 2015\02. GrandTheftExamo\bin\Debug\_02.GrandTheftExamo.exe
+D:\Coding\Software University\Homeworks\Exams\18 October 2015\02. GrandTheftExamo\bin\Debug\_02.GrandTheftExamo.pdb
+D:\Coding\Software University\Homeworks\Exams\18 October 2015\02. GrandTheftExamo\obj\Debug\02. GrandTheftExamo.csprojResolveAssemblyReference.cache
+D:\Coding\Software University\Homeworks\Exams\18 October 2015\02. GrandTheftExamo\obj\Debug\_02.GrandTheftExamo.exe
+D:\Coding\Software University\Homeworks\Exams\18 October 2015\02. GrandTheftExamo\obj\Debug\_02.GrandTheftExamo.pdb

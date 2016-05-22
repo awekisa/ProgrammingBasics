@@ -1,0 +1,6 @@
+D:\Coding\Software University\Homeworks\Exams\30 August 2015\03. Striped Towel\bin\Debug\_03.Striped_Towel.exe.config
+D:\Coding\Software University\Homeworks\Exams\30 August 2015\03. Striped Towel\bin\Debug\_03.Striped_Towel.exe
+D:\Coding\Software University\Homeworks\Exams\30 August 2015\03. Striped Towel\bin\Debug\_03.Striped_Towel.pdb
+D:\Coding\Software University\Homeworks\Exams\30 August 2015\03. Striped Towel\obj\Debug\03. Striped Towel.csprojResolveAssemblyReference.cache
+D:\Coding\Software University\Homeworks\Exams\30 August 2015\03. Striped Towel\obj\Debug\_03.Striped_Towel.exe
+D:\Coding\Software University\Homeworks\Exams\30 August 2015\03. Striped Towel\obj\Debug\_03.Striped_Towel.pdb

@@ -1,0 +1,6 @@
+D:\Coding\Software University\Homeworks\Exams\12 July 2015\04. Light the Torches\bin\Debug\_04.Light_the_Torches.exe.config
+D:\Coding\Software University\Homeworks\Exams\12 July 2015\04. Light the Torches\bin\Debug\_04.Light_the_Torches.exe
+D:\Coding\Software University\Homeworks\Exams\12 July 2015\04. Light the Torches\bin\Debug\_04.Light_the_Torches.pdb
+D:\Coding\Software University\Homeworks\Exams\12 July 2015\04. Light the Torches\obj\Debug\04. Light the Torches.csprojResolveAssemblyReference.cache
+D:\Coding\Software University\Homeworks\Exams\12 July 2015\04. Light the Torches\obj\Debug\_04.Light_the_Torches.exe
+D:\Coding\Software University\Homeworks\Exams\12 July 2015\04. Light the Torches\obj\Debug\_04.Light_the_Torches.pdb

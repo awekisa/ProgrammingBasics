@@ -1,0 +1,5 @@
+D:\Coding\Software University\Homeworks\5. Conditional Statements\08. DigitAsWord\bin\Debug\_08.DigitAsWord.exe.config
+D:\Coding\Software University\Homeworks\5. Conditional Statements\08. DigitAsWord\bin\Debug\_08.DigitAsWord.exe
+D:\Coding\Software University\Homeworks\5. Conditional Statements\08. DigitAsWord\bin\Debug\_08.DigitAsWord.pdb
+D:\Coding\Software University\Homeworks\5. Conditional Statements\08. DigitAsWord\obj\Debug\_08.DigitAsWord.exe
+D:\Coding\Software University\Homeworks\5. Conditional Statements\08. DigitAsWord\obj\Debug\_08.DigitAsWord.pdb

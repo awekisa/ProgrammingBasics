@@ -1,0 +1,9 @@
+D:\Coding\Software University\Homeworks\TryBlankSolution\Intro-Programming-Homework\16 Print Long Sequence\bin\Debug\16 Print Long Sequence.exe.config
+D:\Coding\Software University\Homeworks\TryBlankSolution\Intro-Programming-Homework\16 Print Long Sequence\bin\Debug\16 Print Long Sequence.exe
+D:\Coding\Software University\Homeworks\TryBlankSolution\Intro-Programming-Homework\16 Print Long Sequence\bin\Debug\16 Print Long Sequence.pdb
+D:\Coding\Software University\Homeworks\TryBlankSolution\Intro-Programming-Homework\16 Print Long Sequence\obj\Debug\16 Print Long Sequence.exe
+D:\Coding\Software University\Homeworks\TryBlankSolution\Intro-Programming-Homework\16 Print Long Sequence\obj\Debug\16 Print Long Sequence.pdb
+D:\Coding\Software University\Homeworks\TryBlankSolution\Intro-Programming-Homework\16 Print Long Sequence\obj\Debug\16 Print Long Sequence.csprojResolveAssemblyReference.cache
+D:\Coding\Software University\Homeworks\1. Intro-Programming-Homework\16 Print Long Sequence\bin\Debug\16 Print Long Sequence.exe.config
+D:\Coding\Software University\Homeworks\1. Intro-Programming-Homework\16 Print Long Sequence\obj\Debug\16 Print Long Sequence.exe
+D:\Coding\Software University\Homeworks\1. Intro-Programming-Homework\16 Print Long Sequence\obj\Debug\16 Print Long Sequence.pdb
