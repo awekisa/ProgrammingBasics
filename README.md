@@ -1,2 +1,2 @@
 # ProgrammingBasics
-Homewor at Programming Basics at SoftUni
+Homework at Programming Basics at SoftUni
